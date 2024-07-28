@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GET & POST Request</title>
+</head>
+<body>
+    <h1>GET Request Form</h1>
+     <!-- for http portal action we use http link other it's follow file portocal -->
+    <form action="http://localhost:3000/register" method="get">
+        <input placeholder="enter your username" name="user" type="text">
+        <input type="password" name="password" placeholder="enter password">
+        <button>Submit</button>
+    </form>
+
+    <h1>POST Request Form </h1>
+    <!-- for http portal action we use http link other it's follow file portocal -->
+    <form method="post" action="http://localhost:3000/register">
+        <input placeholder="enter your username" name="user" type="text"/>
+        <input placeholder="enter password" name="password" type="password">
+        <button>Submit</button>
+    </form>
+</body>
+</html>
