@@ -1,0 +1,14 @@
+{
+  "name": "9.middleware",
+  "version": "1.0.0",
+  "main": "01.Our First Middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritik Singh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
