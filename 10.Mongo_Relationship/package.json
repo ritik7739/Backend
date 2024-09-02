@@ -1,0 +1,14 @@
+{
+  "name": "10.mongo_relationship",
+  "version": "1.0.0",
+  "main": "01.One_to_few.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritik Singh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.6.0"
+  }
+}
