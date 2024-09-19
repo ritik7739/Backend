@@ -1,0 +1,16 @@
+{
+  "name": "13.express-session",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritik Singh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0"
+  }
+}
